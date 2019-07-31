@@ -2,6 +2,12 @@
 layout: post
 title: new acquisition(s) | 31-07-2019
 ---
+
+Amazon, Hershey, Mondelez, McDonalds
+.
+.
+.
+
 | Ticker | Amount | Price | Total |
 |-----:|-----:|-----:| -----:|
 |AMZN|1|1884.60|1884.60|
