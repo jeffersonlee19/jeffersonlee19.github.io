@@ -1,7 +1,5 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: New acquisition
 ---
-
-This is my first post, how exciting!
+AMZN,HSY,MDLZ
