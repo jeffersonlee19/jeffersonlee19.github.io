@@ -21,8 +21,8 @@ description: Engineering to Investing and everything else
 # List of links in the navigation bar
 navbar-links:
   Engineering: "engr"
-  Trading: "trading"
   Hobbies: "hobbies"
+  Trading: "trading"
   About Me: "aboutme"
   
 
