@@ -30,4 +30,4 @@ subtitle: What's fun?
   * Singapore
   * Thailand
   * the United Kindom
-  * the United States
+  * the United States of America
