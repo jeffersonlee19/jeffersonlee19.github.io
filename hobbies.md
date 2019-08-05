@@ -10,12 +10,12 @@ subtitle: What's fun?
 
 * Watch enthusiast.
 <br/>
- Holding: 
-  * SARB065
-  * Orient Bambino 2nd Gen ver III
+  Holding: 
+   * SARB065
+   * Orient Bambino 2nd Gen ver III
 <br/>
- Watchlist:
-  * SKX009
+  Watchlist:
+   * SKX009
   <br/>
 
 * Traveler.
