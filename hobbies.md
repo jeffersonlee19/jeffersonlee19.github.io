@@ -8,7 +8,7 @@ subtitle: What's fun?
   * Blackbird - the Beatles
 
 * Watch enthusiast.
-  * Holding: SARB065, Orient Bambino 2nd Gen ver III
+  * Holding: SARB065, Orient Bambino 2nd generation version III
   * Watchlist: SKX009
 
 * Traveler.
