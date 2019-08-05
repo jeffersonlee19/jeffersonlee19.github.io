@@ -4,4 +4,4 @@ title: Trading
 subtitle: money
 ---
 Trading using TDAmeritrade.
-  * Largest holding currently: __Boeing__
+  * Largest holding (as of August 4th 2019): __Boeing__
