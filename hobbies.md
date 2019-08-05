@@ -6,17 +6,13 @@ subtitle: What's fun?
 * Guitar novice.
   * Love of My Life - Queen (fingerstyle)
   * Blackbird - the Beatles
-  <br/>
 
 * Watch enthusiast.
-<br/>
-  Holding: 
+  * Holding: 
    * SARB065
    * Orient Bambino 2nd Gen ver III
-<br/>
-  Watchlist:
+  * Watchlist:
    * SKX009
-  <br/>
 
 * Traveler.
   * Australia
