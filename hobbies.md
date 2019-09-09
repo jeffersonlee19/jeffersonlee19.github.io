@@ -22,6 +22,7 @@ subtitle: What's fun?
   * Japan
   * Korea (south)
   * Malaysia
+  * Mexico
   * New Zealand
   * Norway
   * Singapore
