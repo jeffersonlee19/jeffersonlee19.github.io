@@ -3,4 +3,5 @@ layout: page
 title: Engineering
 subtitle: and coding
 ---
-Currently learning Python. Familiarizing in Tkinter, Py2app
+Learning basics of SoldiWorks.
+Currently self learning Python, familiarizing in Tkinter and Py2app.
