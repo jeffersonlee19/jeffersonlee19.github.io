@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: jefferleeson
+title: JefferLeeSon
 
 # Short description of your site
-description: my self writting memoior
+description: My Self Writting Memoior
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -77,7 +77,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
