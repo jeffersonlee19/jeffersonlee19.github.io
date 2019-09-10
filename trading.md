@@ -13,8 +13,6 @@ import tkinter as tk
 root = tk.Tk()
 root.geometry("640x480")
 root.config(bg='#778899')
-num = 0
-newnum = 0
 
 ### need a csv file called data to store data ###
 file = open('data.csv', 'r')
@@ -34,7 +32,6 @@ def enter():
     """
     this function takes input number and returns it
     """
-    newnum = 0
     newnum = entry_num.get()
     return(newnum)
 def submit():
@@ -93,7 +90,6 @@ button_cancel.place(relx=.5, rely=0.95, anchor='center')
 button_cancel.config(font=("Courier", 16),fg='black',bg='#778899')
 
 root.title("commission calculator")
-
 root.mainloop()
 file.close()
 ```
