@@ -16,3 +16,4 @@ open terminal and cd to folder of python file      (example: cd Desktop/code/fee
 pip install -U py2app
 py2applet --make-setup ###.py                      (replace ### with file name, exmaple: fees.py)
 python3 setup.py py2app -A                         (if using older version of python, try python setup.py py2app -A)
+```
