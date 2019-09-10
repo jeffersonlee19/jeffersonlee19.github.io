@@ -16,7 +16,7 @@ cd Desktop/code/fees
 ```
 pip install -U py2app
 ```
-replace ### with file name, exmaple: fees.py
+replace ### with file name
 ```
 py2applet --make-setup ###.py
 ```
