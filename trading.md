@@ -19,8 +19,8 @@ file = open('data.csv', 'r')
 num = file.readline()
 def quick(n):
     """
-    this function adds number 'n' to number of total trades and writes into csv file
-    this bypasses the enter and submit function
+    adds number 'n' to number of total trades and writes into csv file
+    bypasses the enter and submit function
     """
     newnum = n
     final = int(newnum)+int(num)
@@ -30,13 +30,13 @@ def quick(n):
     root.destroy()
 def enter():
     """
-    this function takes input number and returns it
+    takes input number and returns it
     """
     newnum = entry_num.get()
     return(newnum)
 def submit():
     """
-    this function writes the csv file with the new number from enter function
+    writes the csv file with the new number from enter function
     """
     newnum = enter()
     final = int(newnum)+int(num)
