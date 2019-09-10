@@ -5,4 +5,5 @@ subtitle: last updated August 4, 2019
 ---
 ![My Resume][Resume]
 [Resume]: img/Resume.png
-page-col: "#ffffff"
+
+<span style="background-color:white">
