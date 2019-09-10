@@ -9,7 +9,7 @@ Currently self learning Python, familiarizing in Tkinter and Py2app.
 Creating standalone application from python on Mac.
 Thanks to marinamele.com for great tutorial.
 
-```python
+```
 ###
 open terminal and cd to folder of python file      (example: cd Desktop/code/fees)
 ###
