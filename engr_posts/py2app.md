@@ -3,8 +3,7 @@ layout: page
 title: Engineering
 subtitle: and some coding
 ---
-Learning basics of SolidWorks.
-Currently self learning Python, familiarizing in Tkinter and Py2app.
+
 
 Creating standalone application from python on Mac.
 Thanks to marinamele.com for great tutorial I followed.
