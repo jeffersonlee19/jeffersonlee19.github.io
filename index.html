@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Jefferson's Blog
-subtitle: My (mostly) Everything
+subtitle: My intrests
 use-site-title: true
 ---
-
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -20,7 +19,7 @@ use-site-title: true
     </a>
 
     <p class="post-meta">
-      Posted on {{ post.date | date: site.date_format }}
+      Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 
     <div class="post-entry-container">
