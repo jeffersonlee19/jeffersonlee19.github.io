@@ -2,4 +2,5 @@
 layout: post
 title: 3D Single Rigid Body Question
 ---
-you can [get the PDF]({{ site.url }}/img/q1.pdf) directly.
+An interesting [problem]({{ site.url }}/img/q1.pdf) we did in class.
+
