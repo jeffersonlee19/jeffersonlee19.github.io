@@ -18,6 +18,7 @@ subtitle: What's fun?
   * Canada
   * China
   * France
+  * Germany
   * Indonesia
   * Italy
   * Japan
