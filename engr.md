@@ -3,5 +3,5 @@ layout: page
 title: Engineering
 subtitle: and coding
 ---
-* Currently learning SolidWorks
-* Self learning python, markdown, html
+* Currently learning SolidWorks at Texas A&M
+* Self learning python and arduino
