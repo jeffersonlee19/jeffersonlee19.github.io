@@ -1,7 +1,7 @@
 ---
 layout: page
 title: resume
-subtitle: last updated September 9, 2019
+subtitle: last updated January 1, 2020
 ---
 ![My Resume][Resume]
 [Resume]: img/Resume.png
