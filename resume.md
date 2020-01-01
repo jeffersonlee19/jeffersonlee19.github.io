@@ -4,4 +4,4 @@ title: resume
 subtitle: last updated September 9, 2019
 ---
 ![My Resume][Resume]
-[Resume]: img/Resume.png
+[Resume]: img/Resume.pdf
