@@ -4,8 +4,8 @@ title: Trading
 subtitle: Money to make money
 ---
 Trading using TDAmeritrade through application thinkorswim.
-  * Largest holding (as of January 1st 2020): __Boeing__
-  * 2019 year: 4.55% portfolio growth
+  * Largest holding (as of March 20th 2020): __Apple__
+  * 2019 calendar year: 4.55% portfolio growth
 
 
 Python code of commission calculator on mac on a standalone application using py2app.
