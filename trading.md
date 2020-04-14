@@ -8,7 +8,7 @@ Trading using TDAmeritrade through application thinkorswim.
   * 2019 calendar year: * 4.55% portfolio growth
 
 
-(edit 13 April 2020)
+(edit 13 April 2020) <br/>
 (kind of redundant now that most brokerages have free commissions...)
 
 Python code of commission calculator on mac on a standalone application using py2app.
