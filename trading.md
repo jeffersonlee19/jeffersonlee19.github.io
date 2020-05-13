@@ -4,7 +4,7 @@ title: Trading
 subtitle: Money to make money
 ---
 Trading using TDAmeritrade through application thinkorswim.
-  * Largest holding (as of April 13th 2020): __Apple__
+  * Largest holding (as of May 13th 2020): __Visa__
   * 2019 calendar year: 4.55% portfolio growth
 
 
