@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Trading
-subtitle: Money to make money
+subtitle: Money making money
 ---
 Trading using TDAmeritrade through application thinkorswim.
   * Largest holding (as of May 13th 2020): __Visa__
   * 2019 calendar year: 4.55% portfolio growth
-
 
 _edit 13 April 2020_
 _kind of redundant now that most brokerages have free commissions..._
