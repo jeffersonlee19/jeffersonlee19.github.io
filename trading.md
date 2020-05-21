@@ -7,6 +7,8 @@ Trading using TDAmeritrade through application thinkorswim.
   * Largest holding (as of May 13th 2020): __Visa__
   * 2019 calendar year: 4.55% portfolio growth
 
+See post from May 20, 2020 for Python code to help with dollar cost averaging stocks!
+
 _edit 13 April 2020_
 _kind of redundant now that most brokerages have free commissions..._
 Python code of commission calculator on mac on a standalone application using py2app.
