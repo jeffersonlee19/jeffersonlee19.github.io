@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hobbies
-subtitle: What's fun?
+subtitle:
 ---
 * Guitar novice.
   * Love of My Life - Queen (fingerstyle)
