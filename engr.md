@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Engineering
-subtitle:
+subtitle: All sorts of fun
 ---
 Analysis of combined loading due to shear, normal and bending. Finding principal stresses to determine failure and safety factors.
 
