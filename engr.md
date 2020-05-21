@@ -7,3 +7,4 @@ Analysis of combined loading due to shear, normal and bending. Finding principal
 
 Also taking a course in electrical engineering, studying the basics of differnt circuit components such as op amps, diodes, etc.
 
+Here are some [screenshots]({{ site.url }}/img/SW.pdf) of some models I created in solidworks in preparation for the CSWA exam.
