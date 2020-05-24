@@ -3,7 +3,7 @@ layout: post
 title: Python code for Dollar Cost Averaging
 ---
 
-Below is some python code to help you dolalr cost average, specificly, the code will graphiaclly show your current average cost as well
+Below is some python code to help you dollar cost average, specificly, the code will graphiaclly show your current average cost as well
 as calculate your new average cost after a theoretical acquisition. You will need datetime, matplotlib, pandas, and colorama imported.
 
 ```python
