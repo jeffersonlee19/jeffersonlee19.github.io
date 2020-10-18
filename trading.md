@@ -4,8 +4,10 @@ title: Trading
 subtitle: Money making money
 ---
 Trading using TDAmeritrade through application thinkorswim.
-  * Largest holding (as of September 25, 2020): __The Coca-Cola Company__
+  * Largest holding (as of October 18, 2020): __The Coca-Cola Company__
   * 2019 calendar year: 4.55% portfolio growth
+
+Here is a [pdf]({{ site.url }}/img/algo.pdf) of a short study I did on algorithmic trading and HFT.
 
 See post from May 20, 2020 for Python code to help with dollar cost averaging stocks!
 
