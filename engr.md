@@ -3,7 +3,7 @@ layout: page
 title: Engineering
 subtitle: All sorts of fun
 ---
-Here is a [pdf]({{ site.url }}/img/crankshaft.pdf) of an analysis performed on the kinematics of crankshaft and connecting rod.
+Here is a [pdf]({{ site.url }}/img/crankshaft.pdf) of an analysis performed on the kinematics of a crankshaft and connecting rod.
 
 Here is a [pdf]({{ site.url }}/img/relay.pdf) of a statistical analysis of an electromagnetic relay.
 
