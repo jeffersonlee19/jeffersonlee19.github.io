@@ -11,9 +11,9 @@ Here is a [pdf]({{ site.url }}/img/algo.pdf) of a short study I did on algorithm
 
 See post from May 20, 2020 for Python code to help with dollar cost averaging stocks!
 
+Python code of commission calculator on mac on a standalone application using py2app.
 _edit 13 April 2020_
 _kind of redundant now that most brokerages have free commissions..._
-Python code of commission calculator on mac on a standalone application using py2app.
 
 ```python
 import tkinter as tk
