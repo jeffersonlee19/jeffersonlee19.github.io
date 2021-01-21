@@ -5,9 +5,7 @@ subtitle: Money making money
 ---
 Using TDAmeritrade through the application thinkorswim.
   * Largest holding (as of January 20, 2021): __Apple__
-  * The below calculations are made assuming that the initial investment in the account has been available since January 1.
-  * This is not true as money was slowly added monthly.
-
+  * The below calculations are made assuming that the initial investment in the account has been available since January 1. This is not true as money was added monthly.
   * 2019 calendar year: 4.55% portfolio growth.
   * 2020 calendar year: 19.85% portfolio growth.
 
