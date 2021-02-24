@@ -3,7 +3,8 @@ layout: page
 title: Engineering
 subtitle: All sorts of fun
 ---
-A [picture]({{ site.url }}/img/hammer.pdf) of a brass and aluminum hammer I made from scratch in the machine shop. My first time using a mill and lathe! 
+Here is a brass and aluminum hammer I made from scratch in the machine shop. My first time using a mill and lathe! 
+[hammer]: img/hammer.jpg
 
 Here is a [pdf]({{ site.url }}/img/washer.pdf) of an analysis performed on the dynamics of a washing machine and a pedestal.
 
