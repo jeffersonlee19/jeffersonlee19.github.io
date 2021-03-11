@@ -4,7 +4,7 @@ title: Trading
 subtitle: Money making money
 ---
 Using TDAmeritrade through the application thinkorswim.
-  * Largest holding (as of February 23, 2021): **Apple** at 14% of portfolio.
+  * Largest holding (as of March 11, 2021): **Costco** at 16% of portfolio.
   * *The below calculations are made assuming that the initial investment in the account has been available since January 1. This is not true as money was added monthly.*
   * 2019 calendar year: **4.55%** portfolio growth.
   * 2020 calendar year: **19.85%** portfolio growth.
