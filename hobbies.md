@@ -12,7 +12,7 @@ subtitle:
    * Straps: Perlon strap dark gray 20mm, Gallox Milanese Mesh Stainless Steel Watch Strap 20mm, Harris Tweed Ash Grey Watch Strap 20mm, 22mm Super-J Louis 316L Stainless Steel Watch Bracelet for Seiko 5, Brushed V-Clasp
   * Watchlist: SRPD53K1, SKX009
 
-* Traveler.
+* Traveler:
   * Australia
   * Belgium
   * Canada
@@ -22,12 +22,12 @@ subtitle:
   * Indonesia
   * Italy
   * Japan
-  * Korea (south)
   * Malaysia
   * Mexico
   * New Zealand
   * Norway
   * Singapore
+  * South Korea
   * Thailand
   * the United Kindom
   * the United States of America
